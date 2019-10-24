@@ -1,4 +1,4 @@
-# CSCI 380-04: Assignment 2 - Due by 11:59 PM, Mar 13th, 2019
+# CSCI 380-01: Assignment 2 - Due by 11:59 PM, November 6th, 2019
 * * * 
 
 	 By now, you should have Android Studio setup with an emulator. This assignment will let you play 
@@ -8,14 +8,14 @@
 	 (https://google.github.io/styleguide/javaguide.html#s5-naming).
 	 
 	 Also make sure to complete each part in different git commits! 
-	 See Lecture 5 (https://bhargman.github.io/csci-380-04/docs/CSCI-380-04-Lecture-5.pdf) 
-	 slides to learn about the APIs needed for this assignment. 
+	 See the `CSCI-380-01_10-23-19` lecture slides on blackboard to learn about the APIs needed for this assignment. 
 
 # Part 0 - Github Setup - 5%
 + Setup this assignment the same way you did for `assignment1` (see [https://github.com/bhargman/assignment1#part-1---github-setup---5](https://github.com/bhargman/assignment1#part-1---github-setup---5). Name your repo
 `assignment2` this time)
 + Add me as a collaborator (username : `bhargman`) to your private repo (see [https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/)).
     + **If you don't do this step, I'll have no way of grading your assignment**
++ Submit your assignment on Dropbox if you're having issues with Git.
 
 # Part 1 - Android Studio - 5%
 + Import your `assignment2` repo into Android Studio
